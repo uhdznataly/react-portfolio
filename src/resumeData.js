@@ -4,7 +4,7 @@ let resumeData = {
 "name": "Nataly Rodriguez",
 "role": "Full Stack Developer in training",
 "linkedinId":"https://www.linkedin.com/in/natrod/",
-"roleDescription": "I like to...",
+"roleDescription": "",
 "socialLinks":[
     {
       "name":"linkedin",
@@ -20,7 +20,7 @@ let resumeData = {
   ],
 "aboutme":"I just finished my education in coding at the University of Texas Coding Bootcamp. ",
 "address":"Austin, TX",
-"website":"https://uhdznataly.github.io",
+"website":"uhdznataly@yahoo.com ",
 "education":[
   {
     "UniversityName":"University of Houston",
@@ -31,7 +31,7 @@ let resumeData = {
   {
     "UniversityName":"University of Texas Coding Bootcamp",
     "specialization":"Full Stack Web Development ",
-    "StartDate":"September 2022",
+    "StartDate":"September 2022-",
     "EndDate":"March 2023"
   }
 ],
@@ -39,17 +39,17 @@ let resumeData = {
   {
     "CompanyName":"Manor Middle School",
     "specialization":"Math Teacher/LPAC Representative",
-    "StartDate":"August 2021",
+    "StartDate":"August 2021-",
     "EndDate":"present"
   },
   {
     "CompanyName":"Stevenson Middle School",
     "specialization":"Math Teacher",
-    "StartDate":"August 2018",
+    "StartDate":"August 2018-",
     "EndDate":"August 2021"
   }
 ],
-"skillsDescription":"Your skills here",
+"skillsDescription":"",
 "skills":[
   {
     "skillname":"HTML5"
@@ -71,12 +71,14 @@ let resumeData = {
   {
     "name":"Cinemate",
     "description":"",
-    "imgurl":"images/portfolio/Cinemate.png"
+    "imgurl":"images/portfolio/Cinemate.png",
+    "url": "https://sidgray80.github.io/cinemate"
   },
   {
     "name":"Operation Wellness",
     "description":"",
-    "imgurl":"images/portfolio/OperationWellness.png"
+    "imgurl":"images/portfolio/OperationWellness.png",
+    "url": "https://operation-wellness-rsb.herokuapp.com/"
   }
 
 ]
