@@ -52,19 +52,19 @@ let resumeData = {
 "skillsDescription":"",
 "skills":[
   {
-    "skillname":"HTML5"
+    "skill":"HTML5"
   },
   {
-    "skillname":"CSS"
+    "skill":"CSS"
   },
   {
-    "skillname":"Reactjs"
+    "skill":"Reactjs"
   },
   {
-    "skillname":"JavaScript"
+    "skill":"JavaScript"
   },
   {
-    "skillname":"Nodejs"
+    "skill":"Nodejs"
   }
 ],
 "portfolio":[
