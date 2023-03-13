@@ -25,28 +25,28 @@ let resumeData = {
   {
     "UniversityName":"University of Houston",
     "specialization":"Education",
-    "MonthOfPassing":"May",
-    "YearOfPassing":"2017"
+    "StartDate":"",
+    "EndDate":"May 2017"
   },
   {
     "UniversityName":"University of Texas Coding Bootcamp",
     "specialization":"Full Stack Web Development ",
-    "MonthOfPassing":"March",
-    "YearOfPassing":"2023"
+    "StartDate":"September 2022",
+    "EndDate":"March 2023"
   }
 ],
 "work":[
   {
     "CompanyName":"Manor Middle School",
     "specialization":"Math Teacher/LPAC Representative",
-    "MonthOfLeaving":"August 2021",
-    "YearOfLeaving":"present"
+    "StartDate":"August 2021",
+    "EndDate":"present"
   },
   {
     "CompanyName":"Stevenson Middle School",
     "specialization":"Math Teacher",
-    "MonthOfLeaving":"August 2018",
-    "YearOfLeaving":"August 2021"
+    "StartDate":"August 2018",
+    "EndDate":"August 2021"
   }
 ],
 "skillsDescription":"Your skills here",
