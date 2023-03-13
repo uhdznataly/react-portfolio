@@ -27,6 +27,10 @@ Run "npm i" and "npm run start" to deploy.
 
 To showcase my portfolio.
 
+<img width="999" alt="Screenshot 2023-03-13 at 1 14 55 AM" src="https://user-images.githubusercontent.com/112514096/224621964-ee60f084-3e4f-42fd-a208-881b286343e4.png">
+
+<img width="1011" alt="Screenshot 2023-03-13 at 1 15 05 AM" src="https://user-images.githubusercontent.com/112514096/224621982-d3da6d95-019d-4e82-a654-21b7e6344054.png">
+
 ## Tests
 
 None
