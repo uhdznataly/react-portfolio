@@ -79,12 +79,6 @@ let resumeData = {
     "imgurl":"images/portfolio/OperationWellness.png"
   }
 
-],
-"testimonials":[
-  {
-    "description":"This is a sample testimonial",
-    "name":"Random Person"
-  }
 ]
 };
 
