@@ -5,13 +5,13 @@ export default class ContactUs extends Component {
     return (
       <section id="contact">
           <div className="row section-head">
-            <div className="ten columns">
-              <p style={{color:'#a3319a'}} className="lead">
-              Feel free to contact me!
+            <div className="ten column">
+              <p style={{color:'white', textAlign: "center"}} className="lead">
+              Feel free to contact me using my Linkedin which you can find below!
               </p>
             </div>
           </div>
-          <div className="row">
+          {/* <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
                 <h4>Linkedin: <br></br>
@@ -19,7 +19,7 @@ export default class ContactUs extends Component {
                 </h4>
               </div>
             </aside>
-          </div>
+          </div> */}
         </section>
         );
   }
