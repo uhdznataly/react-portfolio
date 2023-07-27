@@ -18,8 +18,8 @@ let resumeData = {
     }
     
   ],
-"aboutme":"I just finished my education in coding at the University of Texas Coding Bootcamp. ",
-"address":"Austin, TX",
+"aboutme":"I am a recent graduate of the University of Texas at Austin Full Stack Coding Bootcamp and hope to transition into the technology field in the near future. I also graduated from the University of Houston with a major in Education and I have been teaching Mathematics for 6 years having taught grades 4th-8th. I believe my background in education and my new skills from completing the bootcamp will make me a great candidate for any company.",
+"address":"Dallas, TX",
 "website":"uhdznataly@yahoo.com ",
 "education":[
   {
@@ -79,7 +79,20 @@ let resumeData = {
     "description":"",
     "imgurl":"images/portfolio/OperationWellness.png",
     "url": "https://operation-wellness-rsb.herokuapp.com/"
-  }
+  },
+  {
+    "name":"Password Generator",
+    "description":"",
+    "imgurl":"images/portfolio/GeneratePassword.png",
+    "url": "https://uhdznataly.github.io/password_generator/"
+
+  },
+{
+  "name":"Work Day Schedule",
+    "description":"",
+    "imgurl":"images/portfolio/WorkDay.png",
+    "url": "https://uhdznataly.github.io/super-disco/"
+}
 
 ]
 };

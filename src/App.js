@@ -7,6 +7,10 @@ import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
 
+
+
+
+
 class App extends Component {
   render() {
     return (
@@ -17,9 +21,14 @@ class App extends Component {
         <Portfolio resumeData={resumeData}/>
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
+
+      
       </div>
     );
+    
   }
 }
+
+
 
 export default App;
