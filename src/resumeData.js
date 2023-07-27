@@ -2,7 +2,7 @@
 let resumeData = {
 "imagebaseurl":"https://uhdznataly.github.io/",
 "name": "Nataly Rodriguez",
-"role": "Full Stack Developer in training",
+"role": "Software Developer in training",
 "linkedinId":"https://www.linkedin.com/in/natrod/",
 "roleDescription": "",
 "socialLinks":[
